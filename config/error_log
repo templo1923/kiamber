@@ -1,0 +1,80 @@
+[05-Jun-2026 04:50:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/catalogo/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/catalogo/public_html/config/database.php on line 18
+[05-Jun-2026 04:50:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/catalogo/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/catalogo/public_html/config/app.php on line 16
+[10-Jun-2026 03:11:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/catalogo/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/catalogo/public_html/config/database.php on line 18
+[10-Jun-2026 03:11:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/catalogo/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/catalogo/public_html/config/app.php on line 16
+[11-Jun-2026 14:32:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/catalogo/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/catalogo/public_html/config/database.php on line 18
+[11-Jun-2026 14:32:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/catalogo/public_html/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/catalogo/public_html/config/mail.php on line 19
+[11-Jun-2026 14:32:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/catalogo/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/catalogo/public_html/config/app.php on line 16
+[11-Jun-2026 14:32:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/catalogo/public_html/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/catalogo/public_html/config/cache.php on line 21
+[11-Jun-2026 14:32:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/catalogo/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/catalogo/public_html/config/services.php on line 18
+[12-Jun-2026 03:20:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/catalogo/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/catalogo/public_html/config/database.php on line 18
+[12-Jun-2026 03:20:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/catalogo/public_html/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/catalogo/public_html/config/mail.php on line 19
+[12-Jun-2026 03:20:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/catalogo/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/catalogo/public_html/config/app.php on line 16
+[12-Jun-2026 03:20:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/catalogo/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/catalogo/public_html/config/services.php on line 18
+[12-Jun-2026 03:20:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/catalogo/public_html/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/catalogo/public_html/config/cache.php on line 21
+[01-Jul-2026 07:30:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/catalogo/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/catalogo/public_html/config/app.php on line 16
+[01-Jul-2026 07:30:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/catalogo/public_html/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/catalogo/public_html/config/mail.php on line 19
+[03-Jul-2026 01:52:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/catalogo/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/catalogo/public_html/config/app.php on line 16
+[03-Jul-2026 01:52:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/catalogo/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/catalogo/public_html/config/app.php on line 16
+[08-Jul-2026 16:35:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/catalogo/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/catalogo/public_html/config/app.php on line 16
+[08-Jul-2026 16:35:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/catalogo/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/catalogo/public_html/config/database.php on line 18
